@@ -1,0 +1,125 @@
+1.8890 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+5.8854 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+6.5425 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E6AFB26AF0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E6B1A0C910>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.5427 	EXP 	window1: mouseVisible = True
+6.5428 	EXP 	window1: mouseVisible = False
+6.5428 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+6.5428 	EXP 	window1: recordFrameIntervals = False
+6.5885 	EXP 	window1: recordFrameIntervals = True
+6.5989 	WARNING 	t of last frame was 6.58ms (=1/152)
+6.6192 	WARNING 	t of last frame was 5.44ms (=1/183)
+6.6319 	WARNING 	t of last frame was 5.19ms (=1/192)
+6.6396 	EXP 	Screen (0) actual frame rate measured at 247.84Hz
+6.6396 	EXP 	window1: recordFrameIntervals = False
+8.2906 	EXP 	Created Instruct = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Instruct', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+8.2973 	EXP 	Created img1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.3024 	EXP 	Created img2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.3032 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+8.3207 	EXP 	Created img1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img1', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.3353 	EXP 	Created img2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+8.3394 	EXP 	Instruct: autoDraw = True
+9.3141 	EXP 	Imported changeDetectionTrials.xlsx as conditions, 6 conditions, 4 params
+9.3146 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+9.3149 	EXP 	New trial (rep=0, index=0): {'Img1': 'Images\\1_1.jpg', 'Img2': 'Images\\1_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+9.4437 	DATA 	Keypress: left
+9.4460 	EXP 	Instruct: autoDraw = False
+9.4460 	EXP 	img1: image = 'Images\\1_1.jpg'
+9.4460 	EXP 	img2: image = 'Images\\1_1.jpg'
+9.4460 	EXP 	img1: autoDraw = True
+14.4501 	EXP 	img1: autoDraw = False
+14.8060 	EXP 	img2: autoDraw = True
+23.9624 	DATA 	Keypress: left
+23.9810 	EXP 	img1: autoDraw = False
+23.9810 	EXP 	img2: autoDraw = False
+23.9810 	EXP 	text: height = 0.05
+23.9810 	EXP 	text: height = 0.05
+23.9810 	EXP 	text: height = 0.05
+23.9810 	EXP 	text: text = 'Correct! RT=9.155'
+23.9810 	EXP 	text: autoDraw = True
+24.9672 	EXP 	New trial (rep=0, index=1): {'Img1': 'Images\\1_1.jpg', 'Img2': 'Images\\1_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+25.0404 	EXP 	text: autoDraw = False
+25.0404 	EXP 	img1: image = 'Images\\1_1.jpg'
+25.0404 	EXP 	img2: image = 'Images\\1_2.jpg'
+25.0404 	EXP 	img1: autoDraw = True
+30.0452 	EXP 	img1: autoDraw = False
+30.4672 	EXP 	img2: autoDraw = True
+31.4417 	DATA 	Keypress: right
+31.4432 	EXP 	img1: autoDraw = False
+31.4432 	EXP 	img2: autoDraw = False
+31.4432 	EXP 	text: height = 0.05
+31.4432 	EXP 	text: height = 0.05
+31.4432 	EXP 	text: height = 0.05
+31.4432 	EXP 	text: text = 'Correct! RT=0.962'
+31.4432 	EXP 	text: autoDraw = True
+32.4350 	EXP 	New trial (rep=0, index=2): {'Img1': 'Images\\3_1.jpg', 'Img2': 'Images\\3_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+32.4907 	EXP 	text: autoDraw = False
+32.4907 	EXP 	img1: image = 'Images\\3_1.jpg'
+32.4907 	EXP 	img2: image = 'Images\\3_2.jpg'
+32.4907 	EXP 	img1: autoDraw = True
+37.4941 	EXP 	img1: autoDraw = False
+37.9318 	EXP 	img2: autoDraw = True
+39.2981 	DATA 	Keypress: right
+39.2995 	EXP 	img1: autoDraw = False
+39.2995 	EXP 	img2: autoDraw = False
+39.2995 	EXP 	text: height = 0.05
+39.2995 	EXP 	text: height = 0.05
+39.2995 	EXP 	text: height = 0.05
+39.2995 	EXP 	text: text = 'Correct! RT=1.355'
+39.2995 	EXP 	text: autoDraw = True
+40.2963 	EXP 	New trial (rep=0, index=3): {'Img1': 'Images\\2_1.jpg', 'Img2': 'Images\\2_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+40.3995 	EXP 	text: autoDraw = False
+40.3995 	EXP 	img1: image = 'Images\\2_1.jpg'
+40.3995 	EXP 	img2: image = 'Images\\2_2.jpg'
+40.3995 	EXP 	img1: autoDraw = True
+45.4012 	EXP 	img1: autoDraw = False
+45.7921 	EXP 	img2: autoDraw = True
+48.4470 	DATA 	Keypress: right
+48.4484 	EXP 	img1: autoDraw = False
+48.4484 	EXP 	img2: autoDraw = False
+48.4484 	EXP 	text: height = 0.05
+48.4484 	EXP 	text: height = 0.05
+48.4484 	EXP 	text: height = 0.05
+48.4484 	EXP 	text: text = 'Correct! RT=2.641'
+48.4484 	EXP 	text: autoDraw = True
+49.4407 	EXP 	New trial (rep=0, index=4): {'Img1': 'Images\\3_2.jpg', 'Img2': 'Images\\3_2.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+49.5044 	EXP 	text: autoDraw = False
+49.5044 	EXP 	img1: image = 'Images\\3_2.jpg'
+49.5044 	EXP 	img2: image = 'Images\\3_2.jpg'
+49.5044 	EXP 	img1: autoDraw = True
+54.5074 	EXP 	img1: autoDraw = False
+54.9411 	EXP 	img2: autoDraw = True
+57.7042 	DATA 	Keypress: left
+57.7056 	EXP 	img1: autoDraw = False
+57.7056 	EXP 	img2: autoDraw = False
+57.7056 	EXP 	text: height = 0.05
+57.7056 	EXP 	text: height = 0.05
+57.7056 	EXP 	text: height = 0.05
+57.7056 	EXP 	text: text = 'Correct! RT=2.753'
+57.7056 	EXP 	text: autoDraw = True
+58.7034 	EXP 	New trial (rep=0, index=5): {'Img1': 'Images\\2_1.jpg', 'Img2': 'Images\\2_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+58.7944 	EXP 	text: autoDraw = False
+58.7944 	EXP 	img1: image = 'Images\\2_1.jpg'
+58.7944 	EXP 	img2: image = 'Images\\2_1.jpg'
+58.7944 	EXP 	img1: autoDraw = True
+63.7944 	EXP 	img1: autoDraw = False
+64.1966 	EXP 	img2: autoDraw = True
+66.5940 	DATA 	Keypress: left
+66.5956 	EXP 	img1: autoDraw = False
+66.5956 	EXP 	img2: autoDraw = False
+66.5956 	EXP 	text: height = 0.05
+66.5956 	EXP 	text: height = 0.05
+66.5956 	EXP 	text: height = 0.05
+66.5956 	EXP 	text: text = 'Correct! RT=2.388'
+66.5956 	EXP 	text: autoDraw = True
+67.5905 	EXP 	Created sequence: random, trialTypes=1, nReps=1, seed=None
+67.5915 	EXP 	New trial (rep=0, index=0): None
+67.6168 	EXP 	text: autoDraw = False
+67.6168 	EXP 	img1: image = 'Images\\2_1.jpg'
+67.6168 	EXP 	img2: image = 'Images\\2_1.jpg'
+67.6168 	EXP 	img1: autoDraw = True
+72.6211 	EXP 	img1: autoDraw = False
+73.0892 	EXP 	img2: autoDraw = True
+74.2315 	DATA 	Keypress: left
+74.2330 	EXP 	img1: autoDraw = False
+74.2330 	EXP 	img2: autoDraw = False
+74.5767 	EXP 	window1: mouseVisible = True
