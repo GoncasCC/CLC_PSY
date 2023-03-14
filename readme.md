@@ -1,3 +1,4 @@
 This is a CLC project in Faculdade de Ciências da Universidade de Lisboa.
 
-O projeto consiste numa experiência para detetar "CHANGE BLINDNESS".
+This project consists in a "CHANGE BLINDNESS" experiment.
+See the PowerPoint for procedures.

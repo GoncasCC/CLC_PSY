@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2021.2.3),
-    on março 14, 2023, at 10:07
+    on março 14, 2023, at 10:13
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -346,7 +346,7 @@ for thisPractice in practice:
                 img1.setAutoDraw(False)
         
         # *img2* updates
-        if img2.status == NOT_STARTED and tThisFlip >= 6-frameTolerance:
+        if img2.status == NOT_STARTED and tThisFlip >= 3.5-frameTolerance:
             # keep track of start time/frame for later
             img2.frameNStart = frameN  # exact frame index
             img2.tStart = t  # local t and not account for scr refresh
@@ -356,7 +356,7 @@ for thisPractice in practice:
         
         # *resp* updates
         waitOnFlip = False
-        if resp.status == NOT_STARTED and tThisFlip >= 5.5-frameTolerance:
+        if resp.status == NOT_STARTED and tThisFlip >= 3.5-frameTolerance:
             # keep track of start time/frame for later
             resp.frameNStart = frameN  # exact frame index
             resp.tStart = t  # local t and not account for scr refresh
@@ -667,7 +667,7 @@ for thisTrial in trials:
                 img1.setAutoDraw(False)
         
         # *img2* updates
-        if img2.status == NOT_STARTED and tThisFlip >= 6-frameTolerance:
+        if img2.status == NOT_STARTED and tThisFlip >= 3.5-frameTolerance:
             # keep track of start time/frame for later
             img2.frameNStart = frameN  # exact frame index
             img2.tStart = t  # local t and not account for scr refresh
@@ -677,7 +677,7 @@ for thisTrial in trials:
         
         # *resp* updates
         waitOnFlip = False
-        if resp.status == NOT_STARTED and tThisFlip >= 5.5-frameTolerance:
+        if resp.status == NOT_STARTED and tThisFlip >= 3.5-frameTolerance:
             # keep track of start time/frame for later
             resp.frameNStart = frameN  # exact frame index
             resp.tStart = t  # local t and not account for scr refresh

@@ -1,0 +1,288 @@
+1.1515 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+23.4938 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+25.6829 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000019210107B70>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001921015A048>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+25.6832 	EXP 	window1: mouseVisible = True
+25.6832 	EXP 	window1: recordFrameIntervals = False
+25.8493 	EXP 	window1: recordFrameIntervals = True
+26.0331 	EXP 	window1: recordFrameIntervals = False
+26.3945 	EXP 	Created Instruct = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Instruct', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+26.4035 	EXP 	Created img1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img1', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+26.4074 	EXP 	Created img2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+26.4088 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+26.4250 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+26.4281 	EXP 	Created img1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img1', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+26.4313 	EXP 	Created img2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='img2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+26.4329 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+26.4390 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='That´s all.\n\nThank you for participating!', units='height', win=Window(...), wrapWidth=1)
+26.4715 	EXP 	Instruct: autoDraw = True
+56.1376 	EXP 	Imported changeDetectionTrials.xlsx as conditions, 6 conditions, 4 params
+56.1386 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+56.1392 	EXP 	New trial (rep=0, index=0): {'Img1': 'Images\\2_1.jpg', 'Img2': 'Images\\2_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+56.2445 	DATA 	Keypress: right
+56.2476 	EXP 	Instruct: autoDraw = False
+56.2476 	EXP 	img1: image = 'Images\\2_1.jpg'
+56.2476 	EXP 	img2: image = 'Images\\2_2.jpg'
+56.2476 	EXP 	img1: autoDraw = True
+59.2620 	EXP 	img1: autoDraw = False
+59.7136 	EXP 	img2: autoDraw = True
+74.4216 	DATA 	Keypress: right
+74.4233 	EXP 	img1: autoDraw = False
+74.4233 	EXP 	img2: autoDraw = False
+74.4233 	EXP 	text: text = 'Correct! RT=14.672'
+74.4233 	EXP 	text: autoDraw = True
+75.4100 	EXP 	New trial (rep=0, index=1): {'Img1': 'Images\\2_1.jpg', 'Img2': 'Images\\2_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+75.4755 	EXP 	text: autoDraw = False
+75.4755 	EXP 	img1: image = 'Images\\2_1.jpg'
+75.4755 	EXP 	img2: image = 'Images\\2_1.jpg'
+75.4755 	EXP 	img1: autoDraw = True
+78.4815 	EXP 	img1: autoDraw = False
+78.9664 	EXP 	img2: autoDraw = True
+80.5028 	DATA 	Keypress: left
+80.5046 	EXP 	img1: autoDraw = False
+80.5046 	EXP 	img2: autoDraw = False
+80.5046 	EXP 	text: text = 'Correct! RT=1.515'
+80.5046 	EXP 	text: autoDraw = True
+81.4894 	EXP 	New trial (rep=0, index=2): {'Img1': 'Images\\1_1.jpg', 'Img2': 'Images\\1_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+81.5561 	EXP 	text: autoDraw = False
+81.5561 	EXP 	text: autoDraw = False
+81.5561 	EXP 	img1: image = 'Images\\1_1.jpg'
+81.5561 	EXP 	img2: image = 'Images\\1_1.jpg'
+81.5561 	EXP 	img1: autoDraw = True
+84.5596 	EXP 	img1: autoDraw = False
+85.0444 	EXP 	img2: autoDraw = True
+86.2249 	DATA 	Keypress: left
+86.2294 	EXP 	img1: autoDraw = False
+86.2294 	EXP 	img2: autoDraw = False
+86.2294 	EXP 	text: text = 'Correct! RT=1.157'
+86.2294 	EXP 	text: autoDraw = True
+87.2170 	EXP 	New trial (rep=0, index=3): {'Img1': 'Images\\1_1.jpg', 'Img2': 'Images\\1_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+87.2825 	EXP 	text: autoDraw = False
+87.2825 	EXP 	text: autoDraw = False
+87.2825 	EXP 	img1: image = 'Images\\1_1.jpg'
+87.2825 	EXP 	img2: image = 'Images\\1_2.jpg'
+87.2825 	EXP 	img1: autoDraw = True
+90.2870 	EXP 	img1: autoDraw = False
+90.7718 	EXP 	img2: autoDraw = True
+92.5804 	DATA 	Keypress: right
+92.6133 	EXP 	img1: autoDraw = False
+92.6133 	EXP 	img2: autoDraw = False
+92.6133 	EXP 	text: text = 'Correct! RT=1.806'
+92.6133 	EXP 	text: autoDraw = True
+93.6107 	EXP 	New trial (rep=0, index=4): {'Img1': 'Images\\3_2.jpg', 'Img2': 'Images\\3_2.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+93.6480 	EXP 	text: autoDraw = False
+93.6480 	EXP 	img1: image = 'Images\\3_2.jpg'
+93.6480 	EXP 	img2: image = 'Images\\3_2.jpg'
+93.6480 	EXP 	img1: autoDraw = True
+96.6489 	EXP 	img1: autoDraw = False
+97.1503 	EXP 	img2: autoDraw = True
+100.8369 	DATA 	Keypress: left
+100.8401 	EXP 	img1: autoDraw = False
+100.8401 	EXP 	img2: autoDraw = False
+100.8401 	EXP 	text: text = 'Correct! RT=3.667'
+100.8401 	EXP 	text: autoDraw = True
+101.8280 	EXP 	New trial (rep=0, index=5): {'Img1': 'Images\\3_1.jpg', 'Img2': 'Images\\3_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+101.8772 	EXP 	text: autoDraw = False
+101.8772 	EXP 	text: autoDraw = False
+101.8772 	EXP 	img1: image = 'Images\\3_1.jpg'
+101.8772 	EXP 	img2: image = 'Images\\3_2.jpg'
+101.8772 	EXP 	img1: autoDraw = True
+104.8811 	EXP 	img1: autoDraw = False
+105.3824 	EXP 	img2: autoDraw = True
+107.2024 	DATA 	Keypress: right
+107.2042 	EXP 	img1: autoDraw = False
+107.2042 	EXP 	img2: autoDraw = False
+107.2042 	EXP 	text: text = 'Correct! RT=1.803'
+107.2042 	EXP 	text: autoDraw = True
+108.2044 	EXP 	text: autoDraw = False
+108.2044 	EXP 	text: autoDraw = False
+108.2044 	EXP 	text_2: autoDraw = True
+117.3928 	EXP 	Imported changeDetectionTrials.xlsx as conditions, 14 conditions, 4 params
+117.3932 	EXP 	Created sequence: sequential, trialTypes=14, nReps=1, seed=None
+117.3936 	EXP 	New trial (rep=0, index=0): {'Img1': 'Images\\5_1.jpg', 'Img2': 'Images\\5_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+117.5105 	DATA 	Keypress: left
+117.5146 	EXP 	text_2: autoDraw = False
+117.5146 	EXP 	img1: image = 'Images\\5_1.jpg'
+117.5146 	EXP 	img2: image = 'Images\\5_1.jpg'
+117.5146 	EXP 	img1: autoDraw = True
+120.5271 	EXP 	img1: autoDraw = False
+120.9951 	EXP 	img2: autoDraw = True
+124.5399 	DATA 	Keypress: left
+124.5720 	EXP 	img1: autoDraw = False
+124.5720 	EXP 	img2: autoDraw = False
+124.5720 	EXP 	text_4: text = 'Press space to continue.'
+124.5720 	EXP 	text_4: autoDraw = True
+125.6597 	DATA 	Keypress: space
+125.6752 	EXP 	New trial (rep=0, index=1): {'Img1': 'Images\\6_1.jpg', 'Img2': 'Images\\6_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+125.8613 	EXP 	text_4: autoDraw = False
+125.8613 	EXP 	img1: image = 'Images\\6_1.jpg'
+125.8613 	EXP 	img2: image = 'Images\\6_2.jpg'
+125.8613 	EXP 	img1: autoDraw = True
+128.8761 	EXP 	img1: autoDraw = False
+129.3440 	EXP 	img2: autoDraw = True
+130.6227 	DATA 	Keypress: right
+130.6295 	EXP 	img1: autoDraw = False
+130.6295 	EXP 	img2: autoDraw = False
+130.6295 	EXP 	text_4: text = 'Press space to continue.'
+130.6295 	EXP 	text_4: autoDraw = True
+131.2530 	EXP 	New trial (rep=0, index=2): {'Img1': 'Images\\7_1.jpg', 'Img2': 'Images\\7_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+131.4872 	DATA 	Keypress: space
+131.4915 	EXP 	text_4: autoDraw = False
+131.4915 	EXP 	img1: image = 'Images\\7_1.jpg'
+131.4915 	EXP 	img2: image = 'Images\\7_2.jpg'
+131.4915 	EXP 	img1: autoDraw = True
+134.5034 	EXP 	img1: autoDraw = False
+134.9714 	EXP 	img2: autoDraw = True
+137.9533 	DATA 	Keypress: right
+137.9599 	EXP 	img1: autoDraw = False
+137.9599 	EXP 	img2: autoDraw = False
+137.9599 	EXP 	text_4: text = 'Press space to continue.'
+137.9599 	EXP 	text_4: autoDraw = True
+138.6161 	EXP 	New trial (rep=0, index=3): {'Img1': 'Images\\8_1.jpg', 'Img2': 'Images\\8_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+138.7117 	DATA 	Keypress: space
+138.7166 	EXP 	text_4: autoDraw = False
+138.7166 	EXP 	img1: image = 'Images\\8_1.jpg'
+138.7166 	EXP 	img2: image = 'Images\\8_1.jpg'
+138.7166 	EXP 	img1: autoDraw = True
+141.7169 	EXP 	img1: autoDraw = False
+142.2182 	EXP 	img2: autoDraw = True
+143.9644 	DATA 	Keypress: left
+143.9712 	EXP 	img1: autoDraw = False
+143.9712 	EXP 	img2: autoDraw = False
+143.9712 	EXP 	text_4: text = 'Press space to continue.'
+143.9712 	EXP 	text_4: autoDraw = True
+145.5297 	DATA 	Keypress: space
+145.5456 	EXP 	New trial (rep=0, index=4): {'Img1': 'Images\\9_1.jpg', 'Img2': 'Images\\9_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+145.7227 	EXP 	text_4: autoDraw = False
+145.7227 	EXP 	img1: image = 'Images\\9_1.jpg'
+145.7227 	EXP 	img2: image = 'Images\\9_2.jpg'
+145.7227 	EXP 	img1: autoDraw = True
+148.7300 	EXP 	img1: autoDraw = False
+149.2147 	EXP 	img2: autoDraw = True
+150.6615 	DATA 	Keypress: right
+150.6671 	EXP 	img1: autoDraw = False
+150.6671 	EXP 	img2: autoDraw = False
+150.6671 	EXP 	text_4: text = 'Press space to continue.'
+150.6671 	EXP 	text_4: autoDraw = True
+151.5404 	DATA 	Keypress: space
+151.5565 	EXP 	New trial (rep=0, index=5): {'Img1': 'Images\\5_1.jpg', 'Img2': 'Images\\5_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+151.7437 	EXP 	text_4: autoDraw = False
+151.7437 	EXP 	img1: image = 'Images\\5_1.jpg'
+151.7437 	EXP 	img2: image = 'Images\\5_2.jpg'
+151.7437 	EXP 	img1: autoDraw = True
+154.7580 	EXP 	img1: autoDraw = False
+155.2260 	EXP 	img2: autoDraw = True
+159.8448 	DATA 	Keypress: left
+159.8510 	EXP 	img1: autoDraw = False
+159.8510 	EXP 	img2: autoDraw = False
+159.8510 	EXP 	text_4: text = 'Press space to continue.'
+159.8510 	EXP 	text_4: autoDraw = True
+160.7738 	EXP 	New trial (rep=0, index=6): {'Img1': 'Images\\10_1.jpg', 'Img2': 'Images\\10_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+160.9493 	DATA 	Keypress: space
+160.9526 	EXP 	text_4: autoDraw = False
+160.9526 	EXP 	img1: image = 'Images\\10_1.jpg'
+160.9526 	EXP 	img2: image = 'Images\\10_2.jpg'
+160.9526 	EXP 	img1: autoDraw = True
+163.9586 	EXP 	img1: autoDraw = False
+164.4432 	EXP 	img2: autoDraw = True
+167.8922 	DATA 	Keypress: left
+167.8994 	EXP 	img1: autoDraw = False
+167.8994 	EXP 	img2: autoDraw = False
+167.8994 	EXP 	text_4: text = 'Press space to continue.'
+167.8994 	EXP 	text_4: autoDraw = True
+168.4054 	EXP 	New trial (rep=0, index=7): {'Img1': 'Images\\11_1.jpg', 'Img2': 'Images\\11_1.jpg', 'corrAns': 'left ', 'Equal': 'yes'}
+168.5161 	DATA 	Keypress: space
+168.5191 	EXP 	text_4: autoDraw = False
+168.5191 	EXP 	img1: image = 'Images\\11_1.jpg'
+168.5191 	EXP 	img2: image = 'Images\\11_1.jpg'
+168.5191 	EXP 	img1: autoDraw = True
+171.5229 	EXP 	img1: autoDraw = False
+172.0242 	EXP 	img2: autoDraw = True
+175.3234 	DATA 	Keypress: left
+175.3301 	EXP 	img1: autoDraw = False
+175.3301 	EXP 	img2: autoDraw = False
+175.3301 	EXP 	text_4: text = 'Press space to continue.'
+175.3301 	EXP 	text_4: autoDraw = True
+175.9024 	EXP 	New trial (rep=0, index=8): {'Img1': 'Images\\8_1.jpg', 'Img2': 'Images\\8_2.jpg', 'corrAns': 'right ', 'Equal': 'no'}
+176.0728 	DATA 	Keypress: space
+176.0766 	EXP 	text_4: autoDraw = False
+176.0766 	EXP 	img1: image = 'Images\\8_1.jpg'
+176.0766 	EXP 	img2: image = 'Images\\8_2.jpg'
+176.0766 	EXP 	img1: autoDraw = True
+179.0871 	EXP 	img1: autoDraw = False
+179.5716 	EXP 	img2: autoDraw = True
+180.6513 	DATA 	Keypress: right
+180.6567 	EXP 	img1: autoDraw = False
+180.6567 	EXP 	img2: autoDraw = False
+180.6567 	EXP 	text_4: text = 'Press space to continue.'
+180.6567 	EXP 	text_4: autoDraw = True
+181.2630 	EXP 	New trial (rep=0, index=9): {'Img1': 'Images\\12_1.jpg', 'Img2': 'Images\\12_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+181.3697 	DATA 	Keypress: space
+181.3728 	EXP 	text_4: autoDraw = False
+181.3728 	EXP 	img1: image = 'Images\\12_1.jpg'
+181.3728 	EXP 	img2: image = 'Images\\12_1.jpg'
+181.3728 	EXP 	img1: autoDraw = True
+184.3803 	EXP 	img1: autoDraw = False
+184.8650 	EXP 	img2: autoDraw = True
+190.8872 	DATA 	Keypress: left
+190.8926 	EXP 	img1: autoDraw = False
+190.8926 	EXP 	img2: autoDraw = False
+190.8926 	EXP 	text_4: text = 'Press space to continue.'
+190.8926 	EXP 	text_4: autoDraw = True
+191.5655 	EXP 	New trial (rep=0, index=10): {'Img1': 'Images\\13_1.jpg', 'Img2': 'Images\\13_1.jpg', 'corrAns': 'left', 'Equal': 'yes'}
+191.8268 	DATA 	Keypress: space
+191.8309 	EXP 	text_4: autoDraw = False
+191.8309 	EXP 	img1: image = 'Images\\13_1.jpg'
+191.8309 	EXP 	img2: image = 'Images\\13_1.jpg'
+191.8309 	EXP 	img1: autoDraw = True
+194.8332 	EXP 	img1: autoDraw = False
+195.3347 	EXP 	img2: autoDraw = True
+198.2289 	DATA 	Keypress: left
+198.2565 	EXP 	img1: autoDraw = False
+198.2565 	EXP 	img2: autoDraw = False
+198.2565 	EXP 	text_4: text = 'Press space to continue.'
+198.2565 	EXP 	text_4: autoDraw = True
+198.8292 	EXP 	New trial (rep=0, index=11): {'Img1': 'Images\\11_1.jpg', 'Img2': 'Images\\11_2.jpg', 'corrAns': 'right ', 'Equal': 'no'}
+199.0454 	DATA 	Keypress: space
+199.0495 	EXP 	text_4: autoDraw = False
+199.0495 	EXP 	img1: image = 'Images\\11_1.jpg'
+199.0495 	EXP 	img2: image = 'Images\\11_2.jpg'
+199.0495 	EXP 	img1: autoDraw = True
+202.0635 	EXP 	img1: autoDraw = False
+202.5315 	EXP 	img2: autoDraw = True
+204.8456 	DATA 	Keypress: right
+204.8520 	EXP 	img1: autoDraw = False
+204.8520 	EXP 	img2: autoDraw = False
+204.8520 	EXP 	text_4: text = 'Press space to continue.'
+204.8520 	EXP 	text_4: autoDraw = True
+205.3247 	EXP 	New trial (rep=0, index=12): {'Img1': 'Images\\12_1.jpg', 'Img2': 'Images\\12_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+205.5530 	DATA 	Keypress: space
+205.5572 	EXP 	text_4: autoDraw = False
+205.5572 	EXP 	img1: image = 'Images\\12_1.jpg'
+205.5572 	EXP 	img2: image = 'Images\\12_2.jpg'
+205.5572 	EXP 	img1: autoDraw = True
+208.5591 	EXP 	img1: autoDraw = False
+209.0605 	EXP 	img2: autoDraw = True
+211.7708 	DATA 	Keypress: right
+211.7985 	EXP 	img1: autoDraw = False
+211.7985 	EXP 	img2: autoDraw = False
+211.7985 	EXP 	text_4: text = 'Press space to continue.'
+211.7985 	EXP 	text_4: autoDraw = True
+212.3211 	EXP 	New trial (rep=0, index=13): {'Img1': 'Images\\13_1.jpg', 'Img2': 'Images\\13_2.jpg', 'corrAns': 'right', 'Equal': 'no'}
+212.5131 	DATA 	Keypress: space
+212.5170 	EXP 	text_4: autoDraw = False
+212.5170 	EXP 	img1: image = 'Images\\13_1.jpg'
+212.5170 	EXP 	img2: image = 'Images\\13_2.jpg'
+212.5170 	EXP 	img1: autoDraw = True
+215.5221 	EXP 	img1: autoDraw = False
+216.0068 	EXP 	img2: autoDraw = True
+230.9065 	DATA 	Keypress: right
+230.9345 	EXP 	img1: autoDraw = False
+230.9345 	EXP 	img2: autoDraw = False
+230.9345 	EXP 	text_4: text = 'Press space to continue.'
+230.9345 	EXP 	text_4: autoDraw = True
+231.8756 	DATA 	Keypress: space
+231.9029 	EXP 	text_4: autoDraw = False
+231.9029 	EXP 	text_3: autoDraw = True
+233.9064 	EXP 	text_3: autoDraw = False
+233.9064 	EXP 	text_3: autoDraw = False
+234.3060 	EXP 	window1: mouseVisible = True
